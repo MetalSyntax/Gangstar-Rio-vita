@@ -1,0 +1,10 @@
+[submodule "lib/falso_jni"]
+	path = lib/falso_jni
+	url = git@github.com:v-atamanenko/FalsoJNI.git
+	branch = master
+[submodule "lib/vitaGL"]
+	path = lib/vitaGL
+	url = https://github.com/Rinnegatamante/vitaGL.git
+[submodule "lib/vitashark"]
+	path = lib/vitashark
+	url = https://github.com/Rinnegatamante/vitashark.git
